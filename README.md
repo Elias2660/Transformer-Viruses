@@ -1,3 +1,5 @@
+With the end of 2024's Google Mentorship Project, this repository is no longer actively maintained! Feel free to check this code out, but remember that it may not be updated at all (and thus may not work). 
+
 # Transformer Viruses Project
 
 This project aims to use transformer models to analyze genomic data related to viruses.
